@@ -6,7 +6,7 @@ This website was created using all six major SDLC phases. (The report is attache
 
 -Website's front end was be developed using three key languages: HTML5, CSS3, and JavaScript<br>
 -Database was constructed in three steps:<br>
-  . Scripting PHP <br>
+ &nbsp;. Scripting PHP <br>
   . Installing Xampp and running MySql through the application<br>
   . Database was viewed using the software PHPMyAdmin<br>
 -The server was built by installing Xampp and running Apache through the application<br>
